@@ -1,4 +1,4 @@
-Hi, I’m Vuuouiwons – developer and tech enthusiast dedicated to building scalable, real-world solutions. My GitHub is a playground where I explore a range of projects
+Hi, I’m Vuuouiwons – building scalable, real-world solutions. My GitHub is a playground where I explore a range of projects
 
 Feel free to connect, contribute, or just say hello!
 
